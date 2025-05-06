@@ -1,0 +1,73 @@
+{
+  "configVersion": 0,
+  "apple": {
+    "version": "12.0.3",
+    "copyright": "2025 Evan Bacon",
+    "release": {
+      "automaticRelease": true
+    },
+    "info": {
+      "en-US": {
+        "description": "In this extremely unique adventure you play as a brave pair of circles who venture endlessly to find their true meaning. \n\nKeep your rhythm flowing with a profound soundtrack  that will sooth your ears into submission.\n\nIntuitive one handed design allows you to do all of your favorite one handed activities while you continue the fun!",
+        "keywords": [
+          "game",
+          "valley",
+          "arcade",
+          "soothing",
+          "zen",
+          "craft",
+          "simple",
+          "easy",
+          "monument",
+          "retro",
+          "ambient",
+          "fyp",
+          "clash"
+        ],
+        "releaseNotes": "Update to Expo SDK 52 and improve universal links",
+        "marketingUrl": "https://pillarvalley.expo.app/",
+        "promoText": "Immerse yourself in a suave world of zen",
+        "supportUrl": "https://github.com/EvanBacon/Expo-Pillar-Valley/issues",
+        "title": "Pillar Valley",
+        "subtitle": "The Finest of Gaming",
+        "privacyPolicyUrl": "https://pillarvalley.expo.app/privacy",
+        "privacyChoicesUrl": "https://pillarvalley.expo.app/privacy"
+      }
+    },
+    "categories": [
+      [
+        "GAMES",
+        "GAMES_CASUAL",
+        "GAMES_FAMILY"
+      ],
+      "ENTERTAINMENT"
+    ],
+    "advisory": {
+      "koreaAgeRatingOverride": "NONE",
+      "ageRatingOverride": "NONE",
+      "alcoholTobaccoOrDrugUseOrReferences": "NONE",
+      "contests": "NONE",
+      "gamblingSimulated": "NONE",
+      "horrorOrFearThemes": "NONE",
+      "matureOrSuggestiveThemes": "NONE",
+      "medicalOrTreatmentInformation": "NONE",
+      "profanityOrCrudeHumor": "NONE",
+      "sexualContentGraphicAndNudity": "NONE",
+      "sexualContentOrNudity": "NONE",
+      "violenceCartoonOrFantasy": "NONE",
+      "violenceRealistic": "NONE",
+      "violenceRealisticProlongedGraphicOrSadistic": "NONE",
+      "gambling": false,
+      "unrestrictedWebAccess": false,
+      "kidsAgeBand": null
+    },
+    "review": {
+      "firstName": "Evan",
+      "lastName": "Bacon",
+      "email": "baconbrix@gmail.com",
+      "phone": "2243030301",
+      "demoRequired": false,
+      "notes": "I <3 U"
+    }
+  }
+}
